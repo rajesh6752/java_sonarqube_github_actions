@@ -1,2 +1,1 @@
-# spring-boot
-List of Spring Boot Tutorials
+# SonarQube-code-analysis-for-maven
